@@ -142,5 +142,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
-    'http://mukando.club'
+    'http://mukando.club',
+    'https://uluju-c5a90.web.app'
 ]
